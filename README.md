@@ -1,2 +1,2 @@
-# RPS-BY-HM
-Rock Paper Scissor Game By Himath Mandul
+# Rock Paper Scissor Game By Himath Mandul
+
